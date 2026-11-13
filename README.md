@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Gauri01-31/Leetcode_Submissions/tree/master/0059-spiral-matrix-ii) |
+| [0209-minimum-size-subarray-sum](https://github.com/Gauri01-31/Leetcode_Submissions/tree/master/0209-minimum-size-subarray-sum) |
 ## Matrix
 |  |
 | ------- |
@@ -13,4 +14,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Gauri01-31/Leetcode_Submissions/tree/master/0059-spiral-matrix-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Gauri01-31/Leetcode_Submissions/tree/master/0209-minimum-size-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Gauri01-31/Leetcode_Submissions/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Gauri01-31/Leetcode_Submissions/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
