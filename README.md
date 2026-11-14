@@ -26,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Gauri01-31/Leetcode_Submissions/tree/master/0209-minimum-size-subarray-sum) |
+## String
+|  |
+| ------- |
+| [0091-decode-ways](https://github.com/Gauri01-31/Leetcode_Submissions/tree/master/0091-decode-ways) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0091-decode-ways](https://github.com/Gauri01-31/Leetcode_Submissions/tree/master/0091-decode-ways) |
 <!---LeetCode Topics End-->
